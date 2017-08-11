@@ -1,0 +1,16 @@
+{
+  "name": "mup-disk",
+  "version": "0.1.0",
+  "description": "Plugin for Meteor Up to view and clean disk usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zodern",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chalk": "^2.1.0",
+    "inquirer": "^3.2.1"
+  }
+}
