@@ -7,6 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zodern",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zodern/mup-disk.git"
+  },
+  "keywords": [
+    "meteor-up"
+  ],
+  "homepage": "https://github.com/zodern/mup-disk",
+  "bugs": "https://github.com/zodern/mup-disk/issues",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.0",
