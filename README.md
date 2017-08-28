@@ -16,7 +16,7 @@ module.exports = {
 
 ### Use
 
-`mup disk view` Shows total disk usage, usage by app, and usage by docker.
+`mup disk show` Shows total disk usage, usage by app, and usage by docker.
 
 `mup disk clean` Runs `docker system prune -af`, and deletes the app's `last/bundle` folder
 
